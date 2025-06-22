@@ -1,0 +1,16 @@
+current directory: C:/Users/masaf/nekojarashi/github/kakomon/backend/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: C:/Users/masaf/nekojarashi/github/kakomon/backend/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250623-29812-zwtwvl sitelibdir\=./.gem.20250623-29812-zwtwvl clean
+
+current directory: C:/Users/masaf/nekojarashi/github/kakomon/backend/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250623-29812-zwtwvl sitelibdir\=./.gem.20250623-29812-zwtwvl
+generating escape-x64-mingw-ucrt.def
+compiling escape.c
+linking shared-object cgi/escape.so
+
+current directory: C:/Users/masaf/nekojarashi/github/kakomon/backend/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250623-29812-zwtwvl sitelibdir\=./.gem.20250623-29812-zwtwvl install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250623-29812-zwtwvl/cgi
